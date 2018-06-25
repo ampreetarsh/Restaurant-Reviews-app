@@ -2,4 +2,4 @@
 
 This app is made with angular to rate restaurants.
 
-<img src="">
+<img src="imgs/1.gif">
